@@ -8,4 +8,6 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 3. Respository for Webpack Plugins : (https://github.com/webpack-contrib).
 
-4. Repository for webpack: (https://github.com/webpack)
+4. Repository for webpack: (https://github.com/webpack).
+
+5. Webpack official documentation : (https://webpack.js.org/).
