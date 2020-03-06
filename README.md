@@ -6,6 +6,6 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 2. Webpack Bundle Analyzer Cli: A webpack plugin for analysing the bundle sized in terminal. Provides a graphical representation of the bundle sizes in command line (https://www.npmjs.com/package/webpack-bundle-analysis-cli).
 
-3. Respository for Webpack Plugins : https://github.com/webpack-contrib
+3. Respository for Webpack Plugins : (https://github.com/webpack-contrib).
 
 
