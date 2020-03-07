@@ -15,3 +15,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 6. Everything is a Plugin - By Sean Larkin (https://www.youtube.com/watch?v=4tQiJaFzuJ8)
 
 7. Webpack: The state of Art (https://www.youtube.com/watch?v=jUTE7lmrS70)
+
+8. Understanding webpack from the inside out: (https://www.youtube.com/watch?v=gEBUU6QfVzk)
