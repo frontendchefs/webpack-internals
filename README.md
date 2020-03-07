@@ -11,3 +11,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 4. Repository for webpack: (https://github.com/webpack).
 
 5. Webpack official documentation : (https://webpack.js.org/).
+
+6. Everything is a Plugin - By Sean Larkin (https://www.youtube.com/watch?v=4tQiJaFzuJ8)
