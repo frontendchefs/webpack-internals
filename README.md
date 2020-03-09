@@ -18,3 +18,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 7. Webpack: The state of Art [https://www.youtube.com/watch?v=jUTE7lmrS70](https://www.youtube.com/watch?v=jUTE7lmrS70)
 
 8. Understanding webpack from the inside out: [https://www.youtube.com/watch?v=gEBUU6QfVzk](https://www.youtube.com/watch?v=gEBUU6QfVzk)
+
+9. Webpack 5 Module Federation: [https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669](https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
