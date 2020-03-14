@@ -22,3 +22,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 9. Webpack 5 Module Federation: [https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669](https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 
 10. Webpack Projects Board: [https://github.com/webpack/webpack/projects/5](https://github.com/webpack/webpack/projects/5)
+
+11. New Features in Webpack 5: [https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/)
