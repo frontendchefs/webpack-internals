@@ -25,4 +25,4 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 11. New Features in Webpack 5: [https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/)
 
-12. Advanced Webpack Config.
+12. Advanced Webpack Config.[https://symfony.com/doc/current/frontend/encore/advanced-config.html](https://symfony.com/doc/current/frontend/encore/advanced-config.html)
