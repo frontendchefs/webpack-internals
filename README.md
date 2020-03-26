@@ -26,3 +26,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 11. New Features in Webpack 5: [https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/)
 
 12. Advanced Webpack Config.[https://symfony.com/doc/current/frontend/encore/advanced-config.html](https://symfony.com/doc/current/frontend/encore/advanced-config.html)
+
+13. Webpack 5 Announcement. [https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9](https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9)
