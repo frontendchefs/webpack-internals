@@ -28,3 +28,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 12. Advanced Webpack Config.[https://symfony.com/doc/current/frontend/encore/advanced-config.html](https://symfony.com/doc/current/frontend/encore/advanced-config.html)
 
 13. Webpack 5 Announcement. [https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9](https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9)
+
+14. Webpack 5 Module Federation. A microfrontend way. [https://dev.to/marais/webpack-5-and-module-federation-4j1i] (https://dev.to/marais/webpack-5-and-module-federation-4j1i)
