@@ -30,3 +30,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 13. Webpack 5 Announcement. [https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9](https://medium.com/@mccabeamylouise/webpack-5-is-coming-54e976ff74a9)
 
 14. Webpack 5 Module Federation. A microfrontend way. [https://dev.to/marais/webpack-5-and-module-federation-4j1i] (https://dev.to/marais/webpack-5-and-module-federation-4j1i)
+
+15. Webpack 5 Assets Module. [https://dev.to/smelukov/webpack-5-asset-modules-2o3h] (https://dev.to/smelukov/webpack-5-asset-modules-2o3h)
