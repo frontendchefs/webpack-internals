@@ -34,3 +34,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 15. Webpack 5 Assets Module. [https://dev.to/smelukov/webpack-5-asset-modules-2o3h] (https://dev.to/smelukov/webpack-5-asset-modules-2o3h)
 
 16. Webpack 5 Module Federation.[https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/)
+
+17. Webpack dev docs. [https://devdocs.io/webpack/](https://devdocs.io/webpack/)
