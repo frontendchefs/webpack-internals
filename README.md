@@ -32,3 +32,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 14. Webpack 5 Module Federation. A microfrontend way. [https://dev.to/marais/webpack-5-and-module-federation-4j1i] (https://dev.to/marais/webpack-5-and-module-federation-4j1i)
 
 15. Webpack 5 Assets Module. [https://dev.to/smelukov/webpack-5-asset-modules-2o3h] (https://dev.to/smelukov/webpack-5-asset-modules-2o3h)
+
+16. Webpack 5 Module Federation.[https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/)
