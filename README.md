@@ -1,4 +1,5 @@
-# Webpack Internals
+# Webpack Internals And Plugins
+
 This is a single stop for all the queries for webpack internals and plugins. Raise an issue if you have any queries.
 
 ## Webpack Internals Resources:
