@@ -36,4 +36,3 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 17. Webpack dev docs. [https://devdocs.io/webpack/](https://devdocs.io/webpack/)
 
-18. The road to webpack 5 by Sean Larkinn - ( core contributoe in webpack). [https://www.youtube.com/watch?v=J_sDa58UUQo](https://www.youtube.com/watch?v=J_sDa58UUQo)
