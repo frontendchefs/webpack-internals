@@ -16,6 +16,8 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 6. Everything is a Plugin - By Sean Larkin [https://www.youtube.com/watch?v=4tQiJaFzuJ8](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
 
+7. The road to webpack 5 by Sean Larkinn - ( core contributoe in webpack). [https://www.youtube.com/watch?v=J_sDa58UUQo](https://www.youtube.com/watch?v=J_sDa58UUQo)
+
 8. Understanding webpack from the inside out: [https://www.youtube.com/watch?v=gEBUU6QfVzk](https://www.youtube.com/watch?v=gEBUU6QfVzk)
 
 9. Webpack 5 Module Federation: [https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669](https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
