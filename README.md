@@ -38,3 +38,4 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 17. Webpack dev docs. [https://devdocs.io/webpack/](https://devdocs.io/webpack/)
 
+18. Webpack Concepts: https://webpack.js.org/concepts/
