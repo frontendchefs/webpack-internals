@@ -42,4 +42,6 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 
 19. https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716
 
-20. Internal Webpack Plugins: (https://webpack.js.org/plugins/internal-plugins/)
+20. Internal Webpack Plugins: [https://webpack.js.org/plugins/internal-plugins/](https://webpack.js.org/plugins/internal-plugins/).
+
+21. Webpack Under The Hood. [https://webpack.js.org/concepts/under-the-hood/](https://webpack.js.org/concepts/under-the-hood/)
