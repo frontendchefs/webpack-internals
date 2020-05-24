@@ -41,3 +41,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 18. Webpack Concepts: https://webpack.js.org/concepts/
 
 19. https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716
+
+20. Internal Webpack Plugins: (https://webpack.js.org/plugins/internal-plugins/)
