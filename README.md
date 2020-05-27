@@ -45,3 +45,5 @@ This is a single stop for all the queries for webpack internals and plugins. Rai
 20. Internal Webpack Plugins: [https://webpack.js.org/plugins/internal-plugins/](https://webpack.js.org/plugins/internal-plugins/).
 
 21. Webpack Under The Hood. [https://webpack.js.org/concepts/under-the-hood/](https://webpack.js.org/concepts/under-the-hood/)
+
+22. Webpack Internasl And Plugin Architecture. [https://www.youtube.com/watch?v=ITb8nfMXeEo](https://www.youtube.com/watch?v=ITb8nfMXeEo)
